@@ -20,3 +20,12 @@ You can find the dataset on Kaggle: [Credit Card Customers Dataset](https://www.
 - Microsoft Excel
 - CANVA
 
+
+**thanks for watching**
+
+If you have any questions or issues, please contact me.
+
+
+
+**Tomer.itzack@gmail.com**
+
